@@ -782,7 +782,7 @@ Image Credit: [SD Association](https://www.sdcard.org/)
 
 [Sabrent XTRM Q](https://www.sabrent.com/rocket-xtrmq/) is a perfect SSD for all your needs: Games, High-res photos, Videos, Sound files, etc. It's perfect for saving, creating and editing available in 500GB, 1TB, 2TB, and 4TB drives.
 
-[Shell Thunder](https://m.fledging.net/products/shell-thunder) is a high-performance Intel-Certified Thunderbolt 3 SSD Enclosure engineered for active cooling with smart fan technology. Shell Thunder is designed for 2280 and 2260 m.2 NVME SSDs for Windows and macOS.
+[Shell Thunder](https://fledging.tech/products/shell-thunder/) is a high-performance Intel-Certified Thunderbolt 3 SSD Enclosure engineered for active cooling with smart fan technology. Shell Thunder is designed for 2280 and 2260 m.2 NVME SSDs for Windows and macOS.
 
 [Orico USB4.0 NVMe SSD Enclosure](https://www.orico.cc/us/product/detail/7328.html) is a high-performance SSD Enclosure engineered with up to a 40Gbps transmission rate and 2 TB capacity. It supports Windows, macOS, and Linux devices.
 
